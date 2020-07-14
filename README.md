@@ -17,6 +17,8 @@ Here is a 7-minute video introducing the idea: https://youtu.be/ldNasL2I--A
 
 **Instructions**
 
+(Due to size constraints, the .csv files cannot be included in the repo, but they can be downloaded here: https://catalog.data.gov/dataset/next-generation-simulation-ngsim-vehicle-trajectories)
+
 Run the files with the following order:
 
 - preprocessing.py
